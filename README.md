@@ -1,4 +1,4 @@
-# Space2
+# Space3
 
 10. Klasse
 
@@ -6,7 +6,5 @@
 * Interaktion
 * Vererbung
 
-Der erste Schritt Richtung Vererbung ist geschehen. Es gibt eine Oberklasse Spielobjekt, die gemeinsame Attribute und Methoden enthält.
+Der erste Schritt Richtung Vererbung ist geschehen. Es gibt eine Oberklasse Spielobjekt, die gemeinsame Attribute und Methoden enthält. Nun auch eine erste Kollisionserkennung. Aber das Projekt ist noch lange nicht fertig...
 
-Immer noch ist einiges zu tun:
-Kollsionskontrolle, ...
